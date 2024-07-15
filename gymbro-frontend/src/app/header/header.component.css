@@ -1,2 +1,11 @@
+.title {
+    font-size: 45px;
+    color: rgb(59, 59, 184);
+    font-family: "Times New Roman", Georgia, serif; 
+    font-style: oblique;
+    font-weight: bold;
+}
 
-  
+.container-fluid {
+    background-color: rgba(213, 213, 227, 0.281);
+}
